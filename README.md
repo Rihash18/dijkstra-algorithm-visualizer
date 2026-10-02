@@ -37,6 +37,12 @@ This project visualizes how Dijkstra's shortest path algorithm finds the shortes
 6. The shortest path will be displayed in cyan.
 7. Press `R` to reset the grid.
 
+## 📸 Screenshots
+
+![Dijkstra Visualizer](assets/screenshot1.png)
+![Dijkstra Visualizer](assets/screenshot2.png)
+![Dijkstra Visualizer](assets/screenshot3.png)
+
 ## 🧠 How It Works
 
 The grid is represented as a weighted graph.
